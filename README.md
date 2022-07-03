@@ -7,7 +7,7 @@
 🌱 I’m currently learning WinUI and C++  
 💬 Ask me about anything related to UWP  
 😄 Pronouns: hi/him  
-🔥 Personality: ENTJ-A
+🔥 Personality: ENTJ-A  
 🎉 Fun fact: I changed my first name
 
 
