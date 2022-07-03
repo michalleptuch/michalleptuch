@@ -7,7 +7,9 @@
 🌱 I’m currently learning WinUI and C++  
 💬 Ask me about anything related to UWP  
 😄 Pronouns: hi/him  
+🔥 Personality: ENTJ-A
 🎉 Fun fact: I changed my first name
+
 
 ## ⚡ Tech stack and so on
 
@@ -18,6 +20,7 @@
 🔹 MSSQL, SSMS  
 🔹 Jira, Confluence  
 🔹 ISO 9001, ISO 27001
+
 
 ## 📫 Get in touch
 
