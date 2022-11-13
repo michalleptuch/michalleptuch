@@ -46,5 +46,3 @@ E-mail: [mleptuch.apps@outlook.com](mailto:mleptuch.apps@outlook.com)
 <image src="https://store-images.s-microsoft.com/image/apps.24224.14451343819064011.bb84ae8e-3694-4ab6-b477-8d433688c40b.d4fa2f5a-a7cc-4997-b815-1026ba29028c" width=56/></a>
 <a href="https://github.com/michalleptuch/media-mixer" alt="Media Mixer">
 <image src="https://store-images.s-microsoft.com/image/apps.46295.13579431939247977.c67e3bb8-0124-4514-9453-8ba0932f217d.b73ef0fd-7f3c-4262-a1ce-d10a5abd77dc" width=56/></a>
-<a href="https://github.com/michalleptuch/giphly" alt="Giphly">
-<image src="https://store-images.s-microsoft.com/image/apps.27374.13969017834401409.9b9aa003-be30-4752-8f2c-9bf75786826a.911f9faf-23d2-4dac-8d74-5771e9f761f5" width=56/></a>
