@@ -2,19 +2,19 @@
 
 ![](https://komarev.com/ghpvc/?username=michalleptuch)
 
-🍍 I'm a .NET developer from Poland  
+🍍 I'm a .NET Software Engineer from Poland  
 🔭 I’m currently working on app based on Microsoft Graph API  
-🌱 I’m currently learning WinUI and C++  
+🌱 I’m currently learning Windows App SDK and MAUI  
 💬 Ask me about anything related to UWP  
-😄 Pronouns: hi/him  
+😄 Pronouns: he/him  
 🔥 Personality: ENTJ-A  
 🎉 Fun fact: I changed my first name
 
 
 ## ⚡ Tech stack and so on
 
-🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6   
-🔹 WPF, UWP, WinUI, XAML Islands  
+🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6. 7   
+🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK  
 🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI   
 🔹 Git, Azure Devops, TeamCity, Octopus  
 🔹 MSSQL, SSMS  
