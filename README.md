@@ -15,7 +15,7 @@
 
 🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6. 7   
 🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK  
-🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI   
+🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI, YARP   
 🔹 Git, Azure Devops, TeamCity, Octopus  
 🔹 MSSQL, SSMS  
 🔹 Jira, Confluence  
