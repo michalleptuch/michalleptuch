@@ -13,7 +13,7 @@
 
 ## ⚡ Tech stack and so on
 
-🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6. 7   
+🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6, 7   
 🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK  
 🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI, YARP   
 🔹 Git, Azure Devops, TeamCity, Octopus  
@@ -32,10 +32,10 @@ E-mail: [mleptuch.apps@outlook.com](mailto:mleptuch.apps@outlook.com)
 
 ## 💻 My apps
 
+<a href="https://github.com/michalleptuch/ink-workspace" alt="Ink Workspace">
+<image src="https://github.com/michalleptuch/ink-workspace/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/calendar-flyout" alt="Calendar Flyout">
 <image src="https://store-images.s-microsoft.com/image/apps.16617.14565777777550263.eec22724-04b8-4632-afaa-a8db3d49bac1.04529260-ca79-4fb4-b35e-71768ad4f0b1" width=56/></a>
-<a href="https://github.com/michalleptuch/ink-workspace" alt="Ink Workspace">
-<image src="https://store-images.s-microsoft.com/image/apps.50337.14525831200021957.5b3d0a2c-8dcd-4ec6-a95f-ba0c20449817.0d8b0258-b694-4088-bf77-bd9338fa99ea" width=56/></a>
 <a href="https://github.com/michalleptuch/desktop-toolkit" alt="Desktop Toolkit">
 <image src="https://store-images.s-microsoft.com/image/apps.14134.14045298845715428.12c2c4b0-ec8b-44f4-8b2d-f3692cd14f72.3ae42475-9fad-4fe9-883a-fab01b4b4242" width=56/></a>
 <a href="https://github.com/michalleptuch/aurora" alt="Aurora">
