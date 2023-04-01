@@ -28,7 +28,7 @@ LinkedIn: [michalleptuch](https://www.linkedin.com/in/michalleptuch/)
 Mastodon: <a rel="me" href="https://dotnet.social/@michalleptuch">michalleptuch</a>  
 Twitter: [michalleptuch](https://twitter.com/michalleptuch)  
 Buy me a coffee: [michalleptuch](https://www.buymeacoffee.com/michalleptuch)  
-E-mail: [apps@leptuch.com](mailto:apps@leptuch.com)  
+E-mail: [michal@leptuch.com](mailto:michal@leptuch.com)  
 
 
 ## 💻 My apps
