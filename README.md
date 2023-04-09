@@ -41,8 +41,8 @@ E-mail: [michal@leptuch.com](mailto:michal@leptuch.com)
 <image src="https://store-images.s-microsoft.com/image/apps.16617.14565777777550263.eec22724-04b8-4632-afaa-a8db3d49bac1.04529260-ca79-4fb4-b35e-71768ad4f0b1" width=56/></a>
 <a href="https://github.com/michalleptuch/desktop-toolkit" alt="Desktop Toolkit">
 <image src="https://store-images.s-microsoft.com/image/apps.14134.14045298845715428.12c2c4b0-ec8b-44f4-8b2d-f3692cd14f72.3ae42475-9fad-4fe9-883a-fab01b4b4242" width=56/></a>
-<a href="https://github.com/michalleptuch/aurora" alt="Aurora">
-<image src="https://store-images.s-microsoft.com/image/apps.15270.14540617761808034.5883fc92-133b-492c-82de-06d890307680.bc7ce3a9-c56a-4195-bf00-d84ee8b09a2b" width=56/></a>
+<a href="https://github.com/michalleptuch/aurora-wallpaper" alt="Aurora Wallpaper">
+<image src="https://github.com/michalleptuch/aurora-wallpaper/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/ruler" alt="Ruler">
 <image src="https://store-images.s-microsoft.com/image/apps.54878.14459628493561291.24894e8e-2490-4999-b308-14c8d9aeaed8.46420422-33ce-4f80-838d-04df7a0e0dd4" width=56/></a>
 <a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
