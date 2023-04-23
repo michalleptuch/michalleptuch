@@ -33,6 +33,8 @@ E-mail: [michal@leptuch.com](mailto:michal@leptuch.com)
 
 ## 💻 My apps
 
+<a href="https://github.com/michalleptuch/fluent-emoji-gallery" alt="Fluent Emoji Gallery">
+<image src="https://github.com/michalleptuch/fluent-emoji-gallery/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/ink-workspace" alt="Ink Workspace">
 <image src="https://github.com/michalleptuch/ink-workspace/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/mixe" alt="Mixe">
@@ -43,7 +45,5 @@ E-mail: [michal@leptuch.com](mailto:michal@leptuch.com)
 <image src="https://store-images.s-microsoft.com/image/apps.14134.14045298845715428.12c2c4b0-ec8b-44f4-8b2d-f3692cd14f72.3ae42475-9fad-4fe9-883a-fab01b4b4242" width=56/></a>
 <a href="https://github.com/michalleptuch/aurora-wallpaper" alt="Aurora Wallpaper">
 <image src="https://github.com/michalleptuch/aurora-wallpaper/raw/main/images/StoreTile.png" width=56/></a>
-<a href="https://github.com/michalleptuch/ruler" alt="Ruler">
-<image src="https://store-images.s-microsoft.com/image/apps.54878.14459628493561291.24894e8e-2490-4999-b308-14c8d9aeaed8.46420422-33ce-4f80-838d-04df7a0e0dd4" width=56/></a>
 <a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
 <image src="https://store-images.s-microsoft.com/image/apps.24224.14451343819064011.bb84ae8e-3694-4ab6-b477-8d433688c40b.d4fa2f5a-a7cc-4997-b815-1026ba29028c" width=56/></a>
