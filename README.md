@@ -22,15 +22,6 @@
 🔹 ISO 9001, ISO 27001
 
 
-## 📫 Get in touch
-
-LinkedIn: [michalleptuch](https://www.linkedin.com/in/michalleptuch/)  
-Mastodon: <a rel="me" href="https://dotnet.social/@michalleptuch">michalleptuch</a>  
-Twitter: [michalleptuch](https://twitter.com/michalleptuch)  
-Buy me a coffee: [michalleptuch](https://www.buymeacoffee.com/michalleptuch)  
-E-mail: [michal@leptuch.com](mailto:michal@leptuch.com)  
-
-
 ## 💻 My apps
 
 <a href="https://github.com/michalleptuch/fluent-emoji-gallery" alt="Fluent Emoji Gallery">
@@ -47,3 +38,8 @@ E-mail: [michal@leptuch.com](mailto:michal@leptuch.com)
 <image src="https://github.com/michalleptuch/aurora-wallpaper/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
 <image src="https://store-images.s-microsoft.com/image/apps.24224.14451343819064011.bb84ae8e-3694-4ab6-b477-8d433688c40b.d4fa2f5a-a7cc-4997-b815-1026ba29028c" width=56/></a>
+
+
+<br/><br/>
+
+Buy me a coffee: [michalleptuch](https://www.buymeacoffee.com/michalleptuch)  
