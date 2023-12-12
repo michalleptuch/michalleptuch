@@ -7,8 +7,7 @@
 🌱 I’m currently learning Windows App SDK and MAUI  
 💬 Ask me about anything related to UWP  
 😄 Pronouns: he/him  
-🔥 Personality: ENTJ-A  
-🎉 Fun fact: I changed my first name
+🔥 Personality: ENTJ-A
 
 
 ## ⚡ Tech stack and so on
