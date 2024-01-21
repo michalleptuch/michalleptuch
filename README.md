@@ -12,8 +12,8 @@
 
 ## ⚡ Tech stack and so on
 
-🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6, 7   
-🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK  
+🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6, 7, 8   
+🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK, MAUI  
 🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI, YARP   
 🔹 Git, Azure Devops, TeamCity, Octopus  
 🔹 MSSQL, SSMS  
