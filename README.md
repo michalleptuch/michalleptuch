@@ -36,4 +36,4 @@
 <a href="https://github.com/michalleptuch/aurora-wallpaper" alt="Aurora Wallpaper">
 <image src="https://github.com/michalleptuch/aurora-wallpaper/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
-<image src="https://store-images.s-microsoft.com/image/apps.24224.14451343819064011.bb84ae8e-3694-4ab6-b477-8d433688c40b.d4fa2f5a-a7cc-4997-b815-1026ba29028c" width=56/></a>
+<image src="https://store-images.s-microsoft.com/image/apps.29798.14451343819064011.5f9a9686-7eec-4218-8074-88f11e4a6f4a.ff47fe1d-a0c1-4cb2-80ee-59f0a77f2447" width=56/></a>
