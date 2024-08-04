@@ -3,10 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=michalleptuch)
 
 🍍 I'm a .NET Software Engineer from Poland  
-🔭 I’m currently working on app based on Microsoft Graph API  
-🌱 I’m currently learning Windows App SDK and MAUI  
-💬 Ask me about anything related to UWP  
-😄 Pronouns: he/him  
+🔭 I’m currently working on Windows App SDK app
+💬 Ask me about anything related to UWP and Windows App SDK
 🔥 Personality: ENTJ-A
 
 
