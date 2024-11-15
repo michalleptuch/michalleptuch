@@ -27,6 +27,8 @@
 <image src="https://github.com/michalleptuch/ink-workspace/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/input-switcher" alt="Input Switcher">
 <image src="https://github.com/michalleptuch/input-switcher/raw/main/images/StoreTile.png" width=56/></a>
+<a href="https://github.com/michalleptuch/battery-flyout" alt="Battery Flyout">
+<image src="https://github.com/michalleptuch/battery-flyout/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/mixe" alt="Mixe">
 <image src="https://github.com/michalleptuch/mixe/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/calendar-flyout" alt="Calendar Flyout">
