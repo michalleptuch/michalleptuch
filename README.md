@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=michalleptuch)
 
 🍍 I'm a .NET Software Engineer from Poland  
-🔭 I’m currently working on Windows desktop apps
+🔭 I’m currently working on Windows desktop apps  
 💬 Ask me about anything related to UWP and Windows App SDK  
 🔥 Personality: ENTJ-A
 
