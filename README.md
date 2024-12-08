@@ -3,14 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=michalleptuch)
 
 🍍 I'm a .NET Software Engineer from Poland  
-🔭 I’m currently working on Windows App SDK app  
+🔭 I’m currently working on Windows desktop apps
 💬 Ask me about anything related to UWP and Windows App SDK  
 🔥 Personality: ENTJ-A
 
 
 ## ⚡ Tech stack and so on
 
-🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6, 7, 8   
+🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6, 7, 8, 9   
 🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK, MAUI  
 🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI, YARP   
 🔹 Git, Azure Devops, TeamCity, Octopus  
