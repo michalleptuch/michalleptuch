@@ -22,7 +22,7 @@
 ## 💻 My apps
 
 <a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
-<image src="https://store-images.s-microsoft.com/image/apps.609.14451343819064011.9540d7f5-0bc4-47e7-a0a0-61addff72b8c.c2c0a8bc-3931-486b-819b-05db056598df" width=56/></a>
+<image src="https://github.com/michalleptuch/guid-pro/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/fluent-emoji-gallery" alt="Fluent Emoji Gallery">
 <image src="https://github.com/michalleptuch/fluent-emoji-gallery/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/ink-workspace" alt="Ink Workspace">
@@ -31,8 +31,8 @@
 <image src="https://github.com/michalleptuch/input-switcher/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/battery-flyout" alt="Battery Flyout">
 <image src="https://github.com/michalleptuch/battery-flyout/raw/main/images/StoreTile.png" width=56/></a>
-<a href="https://github.com/michalleptuch/mixe" alt="Mixe">
-<image src="https://github.com/michalleptuch/mixe/raw/main/images/StoreTile.png" width=56/></a>
+<a href="https://github.com/michalleptuch/mixe" alt="Media Flyout">
+<image src="https://github.com/michalleptuch/media-flyout/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/calendar-flyout" alt="Calendar Flyout">
 <image src="https://store-images.s-microsoft.com/image/apps.16617.14565777777550263.eec22724-04b8-4632-afaa-a8db3d49bac1.04529260-ca79-4fb4-b35e-71768ad4f0b1" width=56/></a>
 <a href="https://github.com/michalleptuch/desktop-toolkit" alt="Desktop Toolkit">
