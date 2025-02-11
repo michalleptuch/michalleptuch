@@ -21,6 +21,8 @@
 
 ## 💻 My apps
 
+<a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
+<image src="https://store-images.s-microsoft.com/image/apps.29798.14451343819064011.5f9a9686-7eec-4218-8074-88f11e4a6f4a.ff47fe1d-a0c1-4cb2-80ee-59f0a77f2447" width=56/></a>
 <a href="https://github.com/michalleptuch/fluent-emoji-gallery" alt="Fluent Emoji Gallery">
 <image src="https://github.com/michalleptuch/fluent-emoji-gallery/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/ink-workspace" alt="Ink Workspace">
@@ -37,5 +39,3 @@
 <image src="https://store-images.s-microsoft.com/image/apps.14134.14045298845715428.12c2c4b0-ec8b-44f4-8b2d-f3692cd14f72.3ae42475-9fad-4fe9-883a-fab01b4b4242" width=56/></a>
 <a href="https://github.com/michalleptuch/aurora-wallpaper" alt="Aurora Wallpaper">
 <image src="https://github.com/michalleptuch/aurora-wallpaper/raw/main/images/StoreTile.png" width=56/></a>
-<a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
-<image src="https://store-images.s-microsoft.com/image/apps.29798.14451343819064011.5f9a9686-7eec-4218-8074-88f11e4a6f4a.ff47fe1d-a0c1-4cb2-80ee-59f0a77f2447" width=56/></a>
