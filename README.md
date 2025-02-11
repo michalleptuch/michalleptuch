@@ -22,7 +22,7 @@
 ## 💻 My apps
 
 <a href="https://github.com/michalleptuch/guid-pro" alt="GUID Pro">
-<image src="https://store-images.s-microsoft.com/image/apps.29798.14451343819064011.5f9a9686-7eec-4218-8074-88f11e4a6f4a.ff47fe1d-a0c1-4cb2-80ee-59f0a77f2447" width=56/></a>
+<image src="https://store-images.s-microsoft.com/image/apps.609.14451343819064011.9540d7f5-0bc4-47e7-a0a0-61addff72b8c.c2c0a8bc-3931-486b-819b-05db056598df" width=56/></a>
 <a href="https://github.com/michalleptuch/fluent-emoji-gallery" alt="Fluent Emoji Gallery">
 <image src="https://github.com/michalleptuch/fluent-emoji-gallery/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/ink-workspace" alt="Ink Workspace">
