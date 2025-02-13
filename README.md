@@ -31,7 +31,7 @@
 <image src="https://github.com/michalleptuch/input-switcher/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/battery-flyout" alt="Battery Flyout">
 <image src="https://github.com/michalleptuch/battery-flyout/raw/main/images/StoreTile.png" width=56/></a>
-<a href="https://github.com/michalleptuch/mixe" alt="Media Flyout">
+<a href="https://github.com/michalleptuch/media-flyout" alt="Media Flyout">
 <image src="https://github.com/michalleptuch/media-flyout/raw/main/images/StoreTile.png" width=56/></a>
 <a href="https://github.com/michalleptuch/calendar-flyout" alt="Calendar Flyout">
 <image src="https://store-images.s-microsoft.com/image/apps.16617.14565777777550263.eec22724-04b8-4632-afaa-a8db3d49bac1.04529260-ca79-4fb4-b35e-71768ad4f0b1" width=56/></a>
