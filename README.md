@@ -10,7 +10,7 @@
 
 ## ⚡ Tech stack and so on
 
-🔹 C#, .NET Framework 4.x, .NET Core, .NET 5+
+🔹 C#, .NET Framework 4.x, .NET Core, .NET 5+  
 🔹 WPF, UWP, XAML Islands, Windows App SDK  
 🔹 ASP.NET Core, REST, gRPC, WCF, Blazor   
 🔹 Git, Azure Devops, TeamCity, Octopus  
