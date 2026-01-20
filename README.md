@@ -10,9 +10,9 @@
 
 ## ⚡ Tech stack and so on
 
-🔹 C#, .NET Framework 4.x, .NET Core, .NET 5, 6, 7, 8, 9   
-🔹 WPF, UWP, WinUI, XAML Islands, Windows App SDK, MAUI  
-🔹 ASP.NET Core, REST, gRPC, WCF, ServiceBus, Blazor WASM, Swagger UI, YARP   
+🔹 C#, .NET Framework 4.x, .NET Core, .NET 5+
+🔹 WPF, UWP, XAML Islands, Windows App SDK  
+🔹 ASP.NET Core, REST, gRPC, WCF, Blazor   
 🔹 Git, Azure Devops, TeamCity, Octopus  
 🔹 MSSQL, SSMS  
 🔹 Jira, Confluence  
